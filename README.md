@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Eyes following cursor
 
-This page shows how to start styling using CSS grid and JavaScript with a function that creates div elements and applies style to them one by one sequentially. 
+This page shows how to use CSS with JavaScript to create an animation of eyes following the cursor movement.
 
 ## Usage
 
