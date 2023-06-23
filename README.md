@@ -1,16 +1,19 @@
-<h1><img src="./logo12.jpg" alt=personal logo" width=50> Ark Industries</h1>
+<h1><img src="./images/logo12.jpg" alt="personal logo" width=50> Ark Industries</h1>
 
 > Version 1
 
 Ark Industries will be a reference for automation in the history of technology.
 
-## Eyes following cursor
+## Eyes movement animation
 
-This page shows how to use CSS with JavaScript to create an animation of eyes following the cursor movement.
+This page shows how to use CSS with JavaScript to create an animation of eyes following the cursor movement.  
+<img src="./images/eyes.png" alt="Screenshot of eyes movement page">
 
 ## Usage
 
-This file can be used for beginners in the world of web development to create their first web page in GitHub.
+This file can be used for beginners in the world of web development to create their first web page in GitHub.  
+To use it, just fork it to your repository and deploy it.  
+For more information on forking and deployment visit <a href="https://docs.github.com/en">GitHub help</a>
 
 ## Support
 
@@ -20,7 +23,7 @@ You can add me on LinkedIn for some explanation about the use of this code.
 
 ## Roadmap
 
-This file be updated as more fascinating things to add are found.
+In next version more styling will be added.
 
 ## License
 
