@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Eyes movement animation
 
-This page shows how to combine CSS with JavaScript to create an animation of eyes following the cursor movement. Just hover the mouse around the page to see how your movement is been tracked.  
+This page shows how to combine CSS with JavaScript and DOM manipulation to create an animation of eyes following the cursor movement. This can be done by getting the event of "onmousemove" and converting it to the position of the 'eyes'. Just hover the mouse around the page to see how your movement is been tracked.  
 <img src="./images/eyes.png" alt="Screenshot of eyes movement page">
 
 ## Usage
